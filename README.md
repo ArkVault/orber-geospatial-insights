@@ -3,8 +3,9 @@
 **Orber** transforms satellite imagery into instant, actionable insights about land use, water quality, and soil conditions. Built on top of ESA’s Copernicus program and Sentinel Hub, it brings powerful geospatial analytics to users without requiring GIS expertise.
 
 ---
+![Captura de pantalla 2025-06-28 a la(s) 2 15 49 a m](https://github.com/user-attachments/assets/520317b3-cd4c-4f1b-b88c-8b49fc2bc7d3)
 
-## 🚀 Elevator Pitch
+
 
 Orber delivers real-time satellite analysis for land and water management — no GIS skills needed, no waiting. It's fast, accurate, and designed for decision-makers on the ground.
 
@@ -29,6 +30,8 @@ Orber bridges the gap between Earth observation science and everyday decisions. 
 - 🧪 Soil moisture & surface condition monitoring
 - 📦 Export as GeoJSON, KML, or static reports
 - ⚡ Results in seconds — no desktop GIS or plugins
+- 
+![orb4](https://github.com/user-attachments/assets/dc3208c0-907e-4b7f-937d-5402eb0da8a2)
 
 ---
 
@@ -60,7 +63,10 @@ Orber bridges the gap between Earth observation science and everyday decisions. 
 1. **Select a region** on the map interface  
 2. **Orber fetches fresh satellite data** (Sentinel-1/2 WMS)  
 3. **Custom algorithms** process imagery to detect land/water parameters  
-4. **Instant results** are visualized and exportable in multiple formats  
+4. **Instant results** are visualized and exportable in multiple formats
+
+   ![orb1](https://github.com/user-attachments/assets/442d78db-2d00-423b-be5a-9e4abbf6a243)
+
 
 ---
 
